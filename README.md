@@ -47,3 +47,5 @@ Nous allons présenter la façon avec Android Studio pour faire gagner des étap
 ![trouble1](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/trouble_1.png)
 ![trouble2](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/trouble_2.png)
 ![trouble3](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/trouble_3.png)
+
+Suivit de "next" "next" ... "Finish" ;)
