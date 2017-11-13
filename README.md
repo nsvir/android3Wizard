@@ -2,7 +2,7 @@
 
 Executer sur vos ordinateur de la FAC:
 
-Si vous avez un dossier `~/.android` supprimez le pour éviter de trop encombrer votre home
+Si vous avez un dossier `~/.android` supprimez le pour éviter de trop encombrer votre home pendant l'installation
 
 ```
 /home/m2iagl/svirchevsky/public/checkAndroid
