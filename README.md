@@ -1,4 +1,3 @@
-![wizard0](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_0.png)
 ![wizard1](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_1.png)
 ![wizard2](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_2.png)
 ![wizard3](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_3.png)
