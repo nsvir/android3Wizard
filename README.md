@@ -11,7 +11,19 @@
 ![wizard4](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_4.png)
 ![wizard5](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_5.png)
 ![wizard6](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_6.png)
+
+
+
+# Récupération du dépot git
+
+Libre a vous de faire un git clone.
+
+Nous allons présenter la façon avec Android Studio pour faire gagner des étapes d'installation
+
 ![wizard8](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_8.png)
+
+`https://github.com/basaile92/KotlinTP.git`
+
 ![wizard9](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_9.png)
 
 # Installation de l'émulateur
