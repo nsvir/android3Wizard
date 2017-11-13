@@ -1,4 +1,7 @@
 # Téléchargement
+
+Executer sur vos ordinateur de la FAC:
+
 ```
 /home/m2iagl/svirchevsky/public/checkAndroid
 ```
