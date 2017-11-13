@@ -2,6 +2,8 @@
 
 Executer sur vos ordinateur de la FAC:
 
+Si vous avez un dossier `~/.android` supprimez le pour éviter de trop encombrer votre home
+
 ```
 /home/m2iagl/svirchevsky/public/checkAndroid
 ```
