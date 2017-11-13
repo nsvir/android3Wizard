@@ -22,3 +22,9 @@
 ![wizard13](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_13.png)
 ![wizard14](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_14.png)
 ![wizard15](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_15.png)
+
+# Troubleshot android SDK missing / Not definie / etc ...
+
+![trouble1](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/trouble_1.png)
+![trouble2](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/trouble_2.png)
+![trouble3](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/trouble_3.png)
