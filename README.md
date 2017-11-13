@@ -1,12 +1,21 @@
+# Téléchargement
+```
+/home/m2iagl/svirchevsky/public/checkAndroid
+```
+
+# Setup Wizard
+
 ![wizard1](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_1.png)
 ![wizard2](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_2.png)
 ![wizard3](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_3.png)
 ![wizard4](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_4.png)
 ![wizard5](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_5.png)
 ![wizard6](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_6.png)
-![wizard7](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_7.png)
 ![wizard8](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_8.png)
 ![wizard9](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_9.png)
+
+# Installation de l'émulateur
+
 ![wizard10](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_10.png)
 ![wizard11](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_11.png)
 ![wizard12](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_12.png)
