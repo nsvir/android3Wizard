@@ -42,7 +42,7 @@ Nous allons présenter la façon avec Android Studio pour faire gagner des étap
 ![wizard14](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_14.png)
 ![wizard15](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/wizard_15.png)
 
-# Troubleshot android SDK missing / Not definie / etc ...
+# Troubleshot android SDK missing / Not define / etc ...
 
 ![trouble1](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/trouble_1.png)
 ![trouble2](https://raw.githubusercontent.com/nsvir/android3Wizard/master/images/trouble_2.png)
